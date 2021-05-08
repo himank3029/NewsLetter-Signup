@@ -46,5 +46,7 @@ At last type "heroku open" to open your web app on browser.
 
 
 
-# Please see screenshot section to view clear picture of sign-in page which will appear on browser and audience page of mailchimp's API.
+<img src="https://github.com/himank3029/NewsLetter-Signup/blob/main/NewsLetter-Signup/Screenshot/SignUp%20page.png" width="2500" height="800" alt=""> 
+
+
 
