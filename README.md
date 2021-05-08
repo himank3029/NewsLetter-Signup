@@ -45,3 +45,6 @@ At last type "heroku open" to open your web app on browser.
 <br>
 
 
+
+# Please see screenshot section to view clear picture of sign-in page which will appear on browser and audience page of mailchimp's API.
+
