@@ -6,26 +6,28 @@ You just have to enter your Name and email ID to register yourself as a subcribe
 
 This website was created to implement use of API and node.js.
 
-Working:
+<br>
 
-You have to install hyper terminal.
+## *Working:*
 
-Inside the terminal cd into the current NewsLetter-Signup folder and the run the command "npm init".
+- You have to install hyper terminal.
 
-After that run "npm i express body-parser request".
+- Inside the terminal cd into the current NewsLetter-Signup folder and the run the command "npm init".
 
-Run the file using "node app.js".
+- After that run "npm i express body-parser request".
 
-Open the browser and type "localhost:3000".
+- Run the file using "node app.js".
 
-You will be able to signup on your computer locally.
+- Open the browser and type "localhost:3000".
+
+- You will be able to signup on your computer locally.(space,space,enter) 
+ <br>
 
 
 
 
 
-
-Deploying the Web app to heroku:
+## **Deploying the Web app to heroku:**
 
 Go to "http://www.heroku.com" website and read the documentation for deployment.
 
@@ -40,3 +42,6 @@ Type "heroku create" to create a heroku app.
 Type " git push heroku master" to add all your git files into heroku app.
 
 At last type "heroku open" to open your web app on browser.
+<br>
+
+![Screenshot](newsletter.png)
