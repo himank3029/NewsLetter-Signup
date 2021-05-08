@@ -21,7 +21,7 @@ This website was created to implement use of API and node.js.
 
 - Open the browser and type "localhost:3000".
 
-- You will be able to signup on your computer locally.(space,space,enter) 
+- You will be able to signup on your computer locally.
  <br>
 
 
