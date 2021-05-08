@@ -1,4 +1,5 @@
 # NewsLetter-Signup
+**Website link**-https://shielded-hamlet-77232.herokuapp.com/
 
 This website uses Mailchimp's API to register the subcribers into our account.
 
@@ -47,6 +48,8 @@ At last type "heroku open" to open your web app on browser.
 
 
 <img src="https://github.com/himank3029/NewsLetter-Signup/blob/main/NewsLetter-Signup/Screenshot/SignUp%20page.png" width="2500" height="800" alt=""> 
+<img src="https://github.com/himank3029/NewsLetter-Signup/blob/main/NewsLetter-Signup/Screenshot/signin2.PNG" width="2500" height="800" alt=""> 
+<img src="https://github.com/himank3029/NewsLetter-Signup/blob/main/NewsLetter-Signup/Screenshot/Audience1.PNG" width="2500" height="800" alt=""> 
 
 
 
