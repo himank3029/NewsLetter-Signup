@@ -9,7 +9,7 @@ This website was created to implement use of API and node.js.
 
 <br>
 
-## *Working:*
+## *How to use the code:*
 
 - You have to install hyper terminal.
 
