@@ -44,4 +44,4 @@ Type " git push heroku master" to add all your git files into heroku app.
 At last type "heroku open" to open your web app on browser.
 <br>
 
-![Screenshot](newsletter.png)
+
