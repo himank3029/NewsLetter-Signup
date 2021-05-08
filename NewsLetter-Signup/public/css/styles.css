@@ -1,0 +1,80 @@
+html,
+body {
+  height: 100%;
+}
+
+.text-center {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="text"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.jumbotron{
+  background-color:cadetblue ;
+  color: beige;
+  display: block;
+  text-align: left;
+  height: 30%;
+}
+.btn{
+  margin:10px 0px ;
+}
+.button{
+  margin:10px 20px;
+}
+.display-4{
+  font-size: 5rem;
+  text-align: left;
+  margin: auto auto auto 10px;
+}
+.lead{
+  line-height: 2.0;
+   font-size: 4rem;
+   margin: auto auto auto 10px;
+}
+
+@media (max-width: 1220px) {
+  .jumbotron{
+    height: 50%;
+  }
+  .display-4{
+    font-size: 2rem;
+  text-align: left;
+  margin: auto auto auto 10px;
+  }
+  .lead{
+    line-height: 2.0;
+     font-size: 1rem;
+     margin: auto auto auto 10px;
+  }
+
+}
