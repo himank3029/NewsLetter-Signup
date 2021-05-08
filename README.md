@@ -1,7 +1,7 @@
 # NewsLetter-Signup
 **Website link**-https://shielded-hamlet-77232.herokuapp.com/
 
-This website uses Mailchimp's API to register the subcribers into our account.
+This website uses ***Mailchimp's API*** to register the subcribers into our account.
 
 You just have to enter your Name and email ID to register yourself as a subcriber of me.
 
